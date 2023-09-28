@@ -1,4 +1,4 @@
-hello
-this is devops
-linux is a software tool
-docker is a container
+hello,  guys
+this is are the major tool 
+linux is a software programing tool used in git
+docker is a container is majorley used in devops just checking  
