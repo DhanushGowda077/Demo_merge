@@ -1,4 +1,4 @@
-hello,  guys
-this is are the major tool 
-linux is a software programing tool used in git
-docker is a container is majorley used in devops just checking  
+hello, pll
+this is linux
+linux is a was developed by linus torvalds 
+docker is a container is majorley used in devops 
