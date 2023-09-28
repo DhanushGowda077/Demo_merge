@@ -1,0 +1,4 @@
+hello
+this is devops
+linux is a software tool
+docker is a container
