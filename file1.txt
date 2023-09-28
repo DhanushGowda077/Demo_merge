@@ -1,4 +1,4 @@
-hello, pll
-this is linux
-linux is a was developed by linus torvalds 
-docker is a container is majorley used in devops 
+hello good morning 
+this is windows
+linux was developed in 1991
+docker is used in windows
